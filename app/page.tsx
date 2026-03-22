@@ -61,7 +61,7 @@ export default function FlatbushPainterPage() {
             {/* THIS IS YOUR LOGO */}
             <div className="relative h-12 w-12 overflow-hidden rounded-lg bg-sky-700">
               <Image 
-                src="/images/flatbush-painter-logo.png"
+                src="/images/flatbush-painter-logo-brooklyn-ny.png"
                 alt="Flatbush Painter Logo" 
                 fill 
                 className="object-contain p-1"
