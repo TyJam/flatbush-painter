@@ -35,7 +35,7 @@ export default function FlatbushPainterPage() {
             "image": "https://flatbushpainter.com/logo.png",
             "description": "Professional interior painting in Flatbush, Brooklyn. We handle bedrooms, apartments, and move-out refreshes.",
             "url": "https://flatbushpainter.com",
-            "telephone": "+17185551234",
+            "telephone": "+16467554264",
             "address": {
               "@type": "PostalAddress",
               "addressLocality": "Brooklyn",
@@ -83,7 +83,7 @@ export default function FlatbushPainterPage() {
             <a href="#work" className="hover:text-sky-700">Recent Work</a>
             <a href="#services" className="hover:text-sky-700">Services</a>
             <a href="tel:+17185551234" className="rounded-full bg-neutral-950 px-5 py-2.5 text-white hover:bg-neutral-800 transition">
-              Call (718) 555-1234
+              Call (646) 755-4264
             </a>
           </div>
         </div>
@@ -183,7 +183,7 @@ export default function FlatbushPainterPage() {
             </p>
             <div className="mt-10 space-y-6">
               <ContactInfo icon="📍" text="Serving Flatbush & Nearby Brooklyn" />
-              <ContactInfo icon="📞" text="(718) 555-1234" />
+              <ContactInfo icon="📞" text="(646) 755-4264" />
               <ContactInfo icon="✉️" text="djkoatz@gmail.com" />
             </div>
           </div>
