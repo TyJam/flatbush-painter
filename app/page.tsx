@@ -12,11 +12,11 @@ import Image from 'next/image';
 
 const jobImages = [
   { src: '/images/interior-painting-flatbush-brooklyn-1.jpg', alt: 'Interior bedroom painting in Flatbush' },
-  { src: '/images/job2.jpg', alt: 'Clean white walls living room refresh' },
-  { src: '/images/job3.jpg', alt: 'Apartment move-out painting service' },
-  { src: '/images/job4.jpg', alt: 'Modern accent wall installation' },
-  { src: '/images/job5.jpg', alt: 'Detailed trim and baseboard painting' },
-  { src: '/images/job6.jpg', alt: 'Kitchen wall repainting Brooklyn' },
+  { src: '/images/apartment-painting-midwood-brooklyn-3', alt: 'Clean blue walls living room refresh' },
+  { src: '/images/painter-east-flatbush-ny-2.jpg', alt: 'Apartment move-out painting service' },
+  { src: '/images/prospect-lefferts-gardens-painting-5.jpg', alt: 'Modern accent wall installation' },
+  { src: '/images/move-out-painting-services-flatbush-9.jpg', alt: 'Detailed trim and baseboard painting' },
+  { src: '/images/residential-painter-ditmas-park-ny-4.jpg', alt: 'Kitchen wall repainting Brooklyn' },
 ];
 
 export default function FlatbushPainterPage() {
