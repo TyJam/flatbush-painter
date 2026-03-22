@@ -11,12 +11,12 @@ import Image from 'next/image';
  */
 
 const jobImages = [
-  { src: '/job1.jpg', alt: 'Interior bedroom painting in Flatbush' },
-  { src: '/job2.jpg', alt: 'Clean white walls living room refresh' },
-  { src: '/job3.jpg', alt: 'Apartment move-out painting service' },
-  { src: '/job4.jpg', alt: 'Modern accent wall installation' },
-  { src: '/job5.jpg', alt: 'Detailed trim and baseboard painting' },
-  { src: '/job6.jpg', alt: 'Kitchen wall repainting Brooklyn' },
+  { src: '/images/interior-painting-flatbush-brooklyn-1.jpg', alt: 'Interior bedroom painting in Flatbush' },
+  { src: '/images/job2.jpg', alt: 'Clean white walls living room refresh' },
+  { src: '/images/job3.jpg', alt: 'Apartment move-out painting service' },
+  { src: '/images/job4.jpg', alt: 'Modern accent wall installation' },
+  { src: '/images/job5.jpg', alt: 'Detailed trim and baseboard painting' },
+  { src: '/images/job6.jpg', alt: 'Kitchen wall repainting Brooklyn' },
 ];
 
 export default function FlatbushPainterPage() {
@@ -109,7 +109,7 @@ export default function FlatbushPainterPage() {
             </div>
           </div>
           <div className="relative aspect-square md:aspect-video lg:aspect-square overflow-hidden rounded-[3rem] shadow-2xl border-8 border-white">
-            <Image src="/job1.jpg" alt="Interior painting Brooklyn" fill className="object-cover" />
+            <Image src="/images/interior-painting-flatbush-brooklyn-1.jpg" alt="Interior painting Brooklyn" fill className="object-cover" />
           </div>
         </div>
       </section>
