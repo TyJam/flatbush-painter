@@ -95,7 +95,7 @@ export default async function LandingPage() {
             </div>
           </div>
           <div className="relative aspect-square overflow-hidden rounded-[3rem] shadow-2xl border-8 border-white">
-            <Image src="/images/gallery/interior-painting-flatbush-brooklyn-1.jpg" alt="Professional Interior Painter Brooklyn" fill className="object-cover" priority />
+            <Image src="/images/local-brooklyn-painter-providing-professional-interior-services.jpg" alt="Professional Interior Painter Brooklyn" fill className="object-cover" priority />
           </div>
         </div>
       </section>
