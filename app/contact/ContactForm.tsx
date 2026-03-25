@@ -26,12 +26,12 @@ export default function ContactForm() {
       <div>
         <h1 className="text-6xl font-black text-neutral-950 leading-[1.1]">Let's transform your space.</h1>
         <p className="mt-8 text-xl text-neutral-900 font-extrabold leading-relaxed">
-          Looking for a **professional interior painter**? DJ specializes in the **painting of interior** walls, sheetrock, and floors. Reach out for a free quote.
+          Looking for a professional interior painter? DJ specializes in the painting of interior walls, sheetrock, and floors. Reach out for a free quote.
         </p>
         <div className="mt-12 p-8 bg-neutral-50 rounded-[2.5rem] border border-neutral-200">
           <p className="text-xs font-black uppercase text-neutral-400 mb-4 tracking-widest">Fastest Way to Book</p>
           <a href="tel:+16467554264" className="text-3xl md:text-4xl font-black text-sky-700 hover:text-neutral-950 transition underline underline-offset-8 decoration-neutral-200">(646) 755-4264</a>
-          <p className="mt-6 text-neutral-600 font-bold italic text-sm">"Call or Text anytime for a Brooklyn local response."</p>
+          <p className="mt-6 text-neutral-600 font-bold italic text-sm">Call or Text anytime for a Brooklyn local response.</p>
         </div>
       </div>
 
