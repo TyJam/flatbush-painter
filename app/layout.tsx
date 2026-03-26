@@ -17,8 +17,8 @@ export const metadata: Metadata = {
     "Flatbush painter", 
     "Brooklyn drywall repair"
   ],
-  metadataBase: new URL('https://flatbushpainter.com'),
-  alternates: { canonical: '/' },
+  metadataBase: new URL('https://www.flatbushpainter.com'),
+  alternates: { canonical: 'https://www.flatbushpainter.com' },
   openGraph: {
     title: "Professional Interior Painter, Sheetrock & Floors | Flatbush, Brooklyn",
     description: "Expert painting of interior walls, sheetrock finishing, and hardwood floor services in Brooklyn.",

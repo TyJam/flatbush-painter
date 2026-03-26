@@ -5,8 +5,15 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: '/private/', // Keep bots out of private folders
+      disallow: [
+        '/private/', // Keep bots out of private folders
+        '/_next/', 
+        '/static/', 
+        '/api/',
+        '/*?dpl=', // This blocks those long strings like ?dpl=dpl_5YtB..
+
+      ],
     },
-    sitemap: 'https://flatbushpainter.com/sitemap.xml',
+    sitemap: 'https://www.flatbushpainter.com/sitemap.xml',
   }
 }
